@@ -1,2 +1,2 @@
 # CERN_BL4S_Project_Code
-This repository contains the code to the simulations for our CERN BL4S Project
+The following repository contains the code for the simulations for my CERN BL4S Project. In this project, I have attempted to predict the effect of space-like radiation on the performance of batteries commonly used in the space industry. The purpose of the proposal is to find which batteries are most suitable for future space travel and best at maintaining structural and electronic integrity.
